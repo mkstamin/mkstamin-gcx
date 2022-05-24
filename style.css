@@ -1,0 +1,27 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 180px;
+  width: 384px;
+  text-align: center;
+
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+h2 {
+  color: rgba(50, 126, 90, 0.767);
+}
+
+button {
+  background-color: rgb(54, 109, 110);
+  color: rgba(255, 255, 255, 0.932);
+  font-weight: bolder;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+}
